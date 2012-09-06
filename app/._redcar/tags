@@ -1,0 +1,6 @@
+1346970133
+ApplicationController	c:/Sites/railsinstaller_demo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	c:/Sites/railsinstaller_demo/app/helpers/application_helper.rb	module ApplicationHelper
+WelcomeController	c:/Sites/railsinstaller_demo/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeHelper	c:/Sites/railsinstaller_demo/app/helpers/welcome_helper.rb	module WelcomeHelper
+index	c:/Sites/railsinstaller_demo/app/controllers/welcome_controller.rb	  def index

@@ -1,0 +1,8 @@
+1346966998
+Application	c:/Sites/railsinstaller_demo/config/application.rb	  class Application 
+ApplicationController	c:/Sites/railsinstaller_demo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	c:/Sites/railsinstaller_demo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	c:/Sites/railsinstaller_demo/test/performance/browsing_test.rb	class BrowsingTest 
+RailsinstallerDemo	c:/Sites/railsinstaller_demo/config/application.rb	module RailsinstallerDemo
+TestCase	c:/Sites/railsinstaller_demo/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	c:/Sites/railsinstaller_demo/test/performance/browsing_test.rb	  def test_homepage
