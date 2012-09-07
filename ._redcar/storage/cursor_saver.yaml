@@ -1,0 +1,6 @@
+--- 
+cursor_positions: 
+  - :path: Gemfile.lock
+    :cursor_offset: 2367
+    :timestamp: 2012-09-06 22:41:31.150000 -04:00
+files_to_retain: 0
